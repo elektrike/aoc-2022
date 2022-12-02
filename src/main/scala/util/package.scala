@@ -1,7 +1,8 @@
 import java.nio.file.{Files, Paths}
 import scala.jdk.CollectionConverters._
 
-package object util {
+package object util:
+
   def readFileLines(path: String): List[String] =
     Files.readAllLines(Paths.get(path)).asScala.toList
 
@@ -10,4 +11,3 @@ package object util {
 
   def readFileAsString(path: String): String =
     new String(Files.readAllBytes(Paths.get(path)))
-}
