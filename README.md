@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" src="https://github.com/elektrike/aoc-2022/blob/master/logo.png?raw=true" />
+  <img align="left" src="https://github.com/elektrike/aoc-2022/blob/master/logo.png?raw=true" />
 </p>
 
 <br>
