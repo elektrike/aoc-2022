@@ -1,5 +1,5 @@
 <h2 align="center">
-<img align="left" src="https://github.com/elektrike/aoc-2022/blob/master/logo.png?raw=true" />
+<img align="center" src="https://github.com/elektrike/aoc-2022/blob/master/logo.png?raw=true" />
 
 <br><br>
 advent of code 2022
